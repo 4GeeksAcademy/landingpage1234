@@ -1,4 +1,63 @@
+html{
+    width: 100%;
+}
 
+body{
+    align-items: center;
+    text-align: left;
+    width: 100%;
+}
+
+
+.card {
+    width: 15rem;
+}
+.card img{
+    height: 300px;
+    width: 200px;
+}
+
+#logo{
+    padding-left: 13%;
+}
+
+.jumbo{
+    padding-right: 2%;
+    padding-left:  2%;
+    padding-bottom: 2%;
+    background-color: rgb(242, 242, 242);
+    margin-bottom: 8px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.cards{
+    padding-right: 10%;
+    padding-left:  10%;
+    
+}
+#navbarNav{
+    padding-right: 14%;
+}
+
+.toggler{
+    margin-left: 13%;
+
+}
+
+.main{
+    display: flex-center;
+    justify-content: center;
+    width: 87%;
+    align-items: center;
+    padding-left: 13%;
+}
+
+.copyright{
+    text-align: center;
+    padding-right: 14%;
+   
+}
 /* 
 
     You can write your own styles here...
